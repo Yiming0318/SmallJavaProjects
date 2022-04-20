@@ -1,2 +1,2 @@
-# TinyJavaProjects
-Tiny java projects (OOD)
+# SmallJavaProjects
+Small java projects (OOD)
