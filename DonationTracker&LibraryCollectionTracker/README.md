@@ -1,8 +1,4 @@
-# Assignment5
-
 ```
-CS5004
-SPRING 2022
 YIMING GE
 
 JavaDocOutput folder stores the HTML version of my code’s documentation
