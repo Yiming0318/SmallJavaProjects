@@ -1,8 +1,5 @@
-# Assignment4
 
 ```
-CS5004
-Spring 2022
 Yiming Ge
 
 JavadocOutput folder stores the generated html code documentation
