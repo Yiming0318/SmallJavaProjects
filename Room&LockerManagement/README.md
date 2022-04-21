@@ -1,7 +1,4 @@
-## Assignment2
 ```
-CS5004
-Spring 2022
 Yiming Ge
 
 
